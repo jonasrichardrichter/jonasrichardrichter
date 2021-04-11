@@ -4,8 +4,8 @@
 
 I'm a 18 year old prgrammer from Dresden in Germany 🇩🇪
 
-- 🔭 I'm currently studying **Information Technology** at Berufsakademie Dresden
-- 🌱 I'm learning iOS Development with SwiftUI and to improve my Open Source skills. ^^
+- 🔭 I'm currently studying **Information Technology** at Berufsakademie Dresden.
+- 🌱 I'm currently learning to develop iOS apps with SwiftUI, as well as improving my open source skills. ^^
 - 💬 You can ask me about everything but maybe I can't help. 😝
 - 📫 You can reach me via E-Mail or Twitter!
 - ⚡ Fun Fact: I really love Nintendo games! 🕹
