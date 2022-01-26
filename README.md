@@ -1,6 +1,6 @@
 ## Hi there, I'm Jonas 👋
 
-![Java: Intermediate](https://img.shields.io/badge/Java-Intermediate-red) ![Swift: Beginner](https://img.shields.io/badge/Swift-Beginner-orange) ![PHP: Beginner](https://img.shields.io/badge/PHP-Beginner-blue)
+![Java: Intermediate](https://img.shields.io/badge/Java-Intermediate-red) ![Swift: Intermediate](https://img.shields.io/badge/Swift-Intermediate-orange) ![TypeScript/JavaScript: Beginner](https://img.shields.io/badge/TypeScript%2FJavaScript-Beginner-brightgreen) ![PHP: Beginner](https://img.shields.io/badge/PHP-Beginner-blue)
 
 I'm a 19 year old prgrammer from Dresden in Germany 🇩🇪
 
