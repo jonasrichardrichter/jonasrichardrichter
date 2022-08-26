@@ -2,7 +2,7 @@
 
 ![Java: Intermediate](https://img.shields.io/badge/Java-Intermediate-red) ![Swift: Intermediate](https://img.shields.io/badge/Swift-Intermediate-orange) ![TypeScript/JavaScript: Beginner](https://img.shields.io/badge/TypeScript%2FJavaScript-Beginner-brightgreen) ![PHP: Beginner](https://img.shields.io/badge/PHP-Beginner-blue)
 
-I'm a 19 year old prgrammer from Dresden in Germany 🇩🇪
+I'm a 20 year old prgrammer from Dresden in Germany 🇩🇪
 
 - 🔭 I'm currently studying **Information Technology** at Berufsakademie Dresden.
 - 🌱 I'm currently learning to develop iOS apps with SwiftUI, as well as improving my open source skills. ^^
