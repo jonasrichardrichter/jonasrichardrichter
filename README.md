@@ -7,5 +7,5 @@ I'm a 21 year old prgrammer from Dresden in Germany 🇩🇪
 - 🔭 I'm currently working as a **Software Engineer** at Deutsche Telekom MMS GmbH.
 - 🌱 I'm currently learning to shoot great pictures. ^^
 - 💬 You can ask me about everything but maybe I can't help. 😝
-- 📫 You can reach me via E-Mail or Twitter!
+- 📫 You can reach me via E-Mail or LinkedIn!
 - ⚡ Fun Fact: I really love Nintendo games! 🕹
